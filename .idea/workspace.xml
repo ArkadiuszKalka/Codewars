@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ab20115-2629-49b6-9cbb-d548bc3b97f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VasyaClerk/VasyaClerk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VasyaClerk/VasyaClerk.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,29 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WriteNumberInExpandedForm/WriteNumberinExpandedForm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/VasyaClerk/VasyaClerk.java">
+        <entry file="file://$PROJECT_DIR$/src/Dubstep/Dubstep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="240">
+              <caret line="16" column="15" selection-start-line="14" selection-start-column="9" selection-end-line="16" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -62,6 +45,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/WriteNumberInExpandedForm/WriteNumberinExpandedForm.java" />
         <option value="$PROJECT_DIR$/src/VasyaClerk/VasyaClerk.java" />
+        <option value="$PROJECT_DIR$/src/Dubstep/Dubstep.java" />
       </list>
     </option>
   </component>
@@ -96,6 +80,18 @@
               <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="Codewars" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Dubstep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VasyaClerk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="WriteNumberInExpandedForm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -108,7 +104,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546505569748" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546508799523" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -125,7 +121,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VasyaClerk">
+  <component name="RunManager" selected="Application.Dubstep">
+    <configuration name="Dubstep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dubstep.Dubstep" />
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dubstep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Codewars" />
@@ -166,9 +175,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.WriteNumberinExpandedForm" />
       <item itemvalue="Application.VasyaClerk" />
+      <item itemvalue="Application.Dubstep" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dubstep" />
         <item itemvalue="Application.VasyaClerk" />
         <item itemvalue="Application.WriteNumberinExpandedForm" />
       </list>
@@ -184,12 +195,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546498809966</updated>
-      <workItem from="1546498816638" duration="7077000" />
+      <workItem from="1546498816638" duration="9369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7077000" />
+    <option name="totallyTimeSpent" value="9369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="731" extended-state="6" />
@@ -207,7 +218,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3283582" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27197346" />
@@ -247,8 +258,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VasyaClerk/VasyaClerk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="126">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="12" selection-end-line="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dubstep/Dubstep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" selection-start-line="14" selection-start-column="9" selection-end-line="16" selection-end-column="15" />
         </state>
       </provider>
     </entry>

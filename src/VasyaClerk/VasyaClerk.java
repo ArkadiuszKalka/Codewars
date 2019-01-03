@@ -36,8 +36,8 @@ public class VasyaClerk {
 
                 }
 
-                if (ok == 1) return "YES";
-                if (ok == 0) return "NO";
+            /*    if (ok == 1) return "YES";
+                if (ok == 0) return "NO"*/;
             }
         }
 
