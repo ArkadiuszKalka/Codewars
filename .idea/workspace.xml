@@ -49,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LongestPalindrom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="375">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TakeaTenMinuteWalk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -91,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/APLusB123.java" />
         <option value="$PROJECT_DIR$/src/Meeting.java" />
         <option value="$PROJECT_DIR$/src/LongestPalindrom.java" />
+        <option value="$PROJECT_DIR$/src/TakeaTenMinuteWalk.java" />
       </list>
     </option>
   </component>
@@ -155,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546799818676" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546801296175" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -173,16 +183,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestPalindrom">
+  <component name="RunManager" selected="Application.TakeaTenMinuteWalk">
     <configuration name="APLusB123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="APLusB123" />
-      <module name="Codewars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindTheUniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindTheUniqueNumber" />
       <module name="Codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -209,20 +212,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TakeaTenMinuteWalk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TakeaTenMinuteWalk" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.FindTheUniqueNumber" />
       <item itemvalue="Application.TMLDynamicColorStringGeneration" />
       <item itemvalue="Application.APLusB123" />
       <item itemvalue="Application.Meeting" />
       <item itemvalue="Application.LongestPalindrom" />
+      <item itemvalue="Application.TakeaTenMinuteWalk" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TakeaTenMinuteWalk" />
         <item itemvalue="Application.LongestPalindrom" />
         <item itemvalue="Application.Meeting" />
         <item itemvalue="Application.APLusB123" />
         <item itemvalue="Application.TMLDynamicColorStringGeneration" />
-        <item itemvalue="Application.FindTheUniqueNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -240,12 +250,12 @@
       <workItem from="1546586289082" duration="7624000" />
       <workItem from="1546609125969" duration="2818000" />
       <workItem from="1546767165797" duration="343000" />
-      <workItem from="1546770901638" duration="21885000" />
+      <workItem from="1546770901638" duration="23316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48234000" />
+    <option name="totallyTimeSpent" value="49665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="731" extended-state="6" />
@@ -380,8 +390,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestPalindrom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="375">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TakeaTenMinuteWalk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
