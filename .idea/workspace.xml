@@ -14,64 +14,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dubstep/Dubstep.java">
+        <entry file="file://$PROJECT_DIR$/src/FindTheUniqueNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="249">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindTheOddInt/FindTheOddInt.java">
+        <entry file="file://$PROJECT_DIR$/src/TMLDynamicColorStringGeneration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="35" selection-start-line="4" selection-start-column="8" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="150">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ClockyMcClockFace/ClockyMcClockFace.java">
+        <entry file="file://$PROJECT_DIR$/src/APLusB123.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="21" selection-end-column="53" />
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PrimorialOfaNumber/PrimorialOfaNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/Meeting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GoingToTheCinema/GoingToTheCinema.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VasyaClerk/VasyaClerk.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WriteNumberInExpandedForm/WriteNumberinExpandedForm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="165">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -103,6 +76,11 @@
         <option value="$PROJECT_DIR$/src/FindTheOddInt/FindTheOddInt.java" />
         <option value="$PROJECT_DIR$/src/ClockyMcClockFace/ClockyMcClockFace.java" />
         <option value="$PROJECT_DIR$/src/PrimorialOfaNumber/PrimorialOfaNumber.java" />
+        <option value="$PROJECT_DIR$/src/HighestScoringWord.java" />
+        <option value="$PROJECT_DIR$/src/FindTheUniqueNumber.java" />
+        <option value="$PROJECT_DIR$/src/TMLDynamicColorStringGeneration.java" />
+        <option value="$PROJECT_DIR$/src/APLusB123.java" />
+        <option value="$PROJECT_DIR$/src/Meeting.java" />
       </list>
     </option>
   </component>
@@ -120,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,14 +139,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546598836600" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546793862135" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -184,86 +162,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimorialOfaNumber">
-    <configuration name="ClockyMcClockFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClockyMcClockFace.ClockyMcClockFace" />
+  <component name="RunManager" selected="Application.Meeting">
+    <configuration name="APLusB123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="APLusB123" />
       <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClockyMcClockFace.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dubstep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dubstep.Dubstep" />
+    <configuration name="FindTheUniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindTheUniqueNumber" />
       <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dubstep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheOddInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindTheOddInt.FindTheOddInt" />
+    <configuration name="HighestScoringWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestScoringWord" />
       <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FindTheOddInt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoingToTheCinema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GoingToTheCinema.GoingToTheCinema" />
+    <configuration name="Meeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Meeting" />
       <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GoingToTheCinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimorialOfaNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimorialOfaNumber.PrimorialOfaNumber" />
+    <configuration name="TMLDynamicColorStringGeneration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TMLDynamicColorStringGeneration" />
       <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PrimorialOfaNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Dubstep" />
-      <item itemvalue="Application.GoingToTheCinema" />
-      <item itemvalue="Application.FindTheOddInt" />
-      <item itemvalue="Application.ClockyMcClockFace" />
-      <item itemvalue="Application.PrimorialOfaNumber" />
+      <item itemvalue="Application.HighestScoringWord" />
+      <item itemvalue="Application.FindTheUniqueNumber" />
+      <item itemvalue="Application.TMLDynamicColorStringGeneration" />
+      <item itemvalue="Application.APLusB123" />
+      <item itemvalue="Application.Meeting" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimorialOfaNumber" />
-        <item itemvalue="Application.ClockyMcClockFace" />
-        <item itemvalue="Application.FindTheOddInt" />
-        <item itemvalue="Application.GoingToTheCinema" />
-        <item itemvalue="Application.Dubstep" />
+        <item itemvalue="Application.Meeting" />
+        <item itemvalue="Application.APLusB123" />
+        <item itemvalue="Application.TMLDynamicColorStringGeneration" />
+        <item itemvalue="Application.FindTheUniqueNumber" />
+        <item itemvalue="Application.HighestScoringWord" />
       </list>
     </recent_temporary>
   </component>
@@ -279,18 +227,20 @@
       <updated>1546498809966</updated>
       <workItem from="1546498816638" duration="15564000" />
       <workItem from="1546586289082" duration="7624000" />
-      <workItem from="1546609125969" duration="2116000" />
+      <workItem from="1546609125969" duration="2818000" />
+      <workItem from="1546767165797" duration="343000" />
+      <workItem from="1546770901638" duration="15844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25304000" />
+    <option name="totallyTimeSpent" value="42193000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1368" height="739" extended-state="6" />
+    <frame x="0" y="-4" width="1366" height="731" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -333,10 +283,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dubstep/Dubstep.java">
+    <entry file="file://$PROJECT_DIR$/src/WriteNumberInExpandedForm/WriteNumberinExpandedForm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HighestScoringWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrimorialOfaNumber/PrimorialOfaNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClockyMcClockFace/ClockyMcClockFace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="21" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -347,10 +318,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClockyMcClockFace/ClockyMcClockFace.java">
+    <entry file="file://$PROJECT_DIR$/src/Dubstep/Dubstep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="21" selection-end-column="53" />
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -363,22 +334,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VasyaClerk/VasyaClerk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="355">
           <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WriteNumberInExpandedForm/WriteNumberinExpandedForm.java">
+    <entry file="file://$PROJECT_DIR$/src/FindTheUniqueNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="249">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrimorialOfaNumber/PrimorialOfaNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/TMLDynamicColorStringGeneration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APLusB123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Meeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
